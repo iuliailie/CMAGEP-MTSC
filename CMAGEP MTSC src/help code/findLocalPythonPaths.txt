@@ -1,0 +1,12 @@
+from sysconfig import get_paths
+from pprint import pprint
+
+info = get_paths()  # a dictionary of key-paths
+
+# pretty print it for now
+pprint(info)
+
+
+
+import sys
+print sys.path

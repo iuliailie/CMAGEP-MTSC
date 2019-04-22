@@ -1,0 +1,5 @@
+for ((k=1 ; k<=2; k++))
+ do
+ g++ -w -std=c++11 *.cpp -o /Users/iulia/multiclassCMAGEP/AllWork/Work_ECG$k -I/System/Library/Frameworks/Python.framework/Versions/2.7/include/python2.7 -fno-strict-aliasing -DNDEBUG -g -fwrapv -O2 -Wall  -D_FORTIFY_SOURCE=2 -g -fstack-protector --param=ssp-buffer-size=4 -Wformat -Werror=format-security -L/usr/lib/libpython2.7.dylib -lpthread -ldl -lutil -lm -lpython2.7 -Xlinker -w
+ done
+

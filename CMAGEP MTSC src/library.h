@@ -1,0 +1,6 @@
+#ifndef MULTICLASSCMAGEP_LIBRARY_H
+#define MULTICLASSCMAGEP_LIBRARY_H
+
+void hello();
+
+#endif
