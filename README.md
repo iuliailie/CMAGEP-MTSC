@@ -7,7 +7,7 @@ C++ and Python implementation of the CMAGEP-MTSC framework for multivariate time
 This page describes the usage of the CMAGEP software as part of the in the CMAGEP-MTSC framework and supports our publication:
 
 ## Installation
-# Requirements
+### Requirements
 
 
 ## How to Use
